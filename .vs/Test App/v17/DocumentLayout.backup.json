@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\Test App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6844089-0B88-4CE8-85A9-C3CC2A8C04F8}|Test App.csproj|d:\\documents\\test app\\test app.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C6844089-0B88-4CE8-85A9-C3CC2A8C04F8}|Test App.csproj|solutionrelative:test app.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\graphcalc-src.4.0\\graphcalc\\win32\\3DGraph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6844089-0B88-4CE8-85A9-C3CC2A8C04F8}|Test App.csproj|d:\\documents\\test app\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6844089-0B88-4CE8-85A9-C3CC2A8C04F8}|Test App.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6844089-0B88-4CE8-85A9-C3CC2A8C04F8}|Test App.csproj|d:\\documents\\test app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6844089-0B88-4CE8-85A9-C3CC2A8C04F8}|Test App.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "3DGraph.cpp",
+              "DocumentMoniker": "D:\\Downloads\\graphcalc-src.4.0\\graphcalc\\win32\\3DGraph.cpp",
+              "RelativeDocumentMoniker": "..\\..\\Downloads\\graphcalc-src.4.0\\graphcalc\\win32\\3DGraph.cpp",
+              "ToolTip": "D:\\Downloads\\graphcalc-src.4.0\\graphcalc\\win32\\3DGraph.cpp",
+              "RelativeToolTip": "..\\..\\Downloads\\graphcalc-src.4.0\\graphcalc\\win32\\3DGraph.cpp",
+              "ViewState": "AgIAAPMBAAAAAAAAAAAgwPgBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-28T23:21:33.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test App",
+              "DocumentMoniker": "D:\\Documents\\Test App\\Test App.csproj",
+              "RelativeDocumentMoniker": "Test App.csproj",
+              "ToolTip": "D:\\Documents\\Test App\\Test App.csproj",
+              "RelativeToolTip": "Test App.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T23:20:13.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\Documents\\Test App\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "D:\\Documents\\Test App\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAqwEYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T20:11:41.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\Test App\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Documents\\Test App\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T20:06:57.236Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
